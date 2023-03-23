@@ -1,8 +1,6 @@
-*************
 poetry install
 *************
 
-*************
 poetry run prefect
 *************
 
